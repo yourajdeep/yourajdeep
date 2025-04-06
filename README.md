@@ -32,5 +32,5 @@ I'm an Indian frontend developer eventually becoming an full-stack developer in 
  <summary><h3>👨‍💻 Rajdeep's Coding Journey</h3></summary>
    I started my coding journey as an amateur. As a beginner and new to the coding world I started with C language which was the very first thing making me feel to code everyday. Eventually, while learning the main stream languages I started to gain interest in web-development and started with HTML, CSS and JS simultaneously. It was a good experience while learning all these things from heart. Currently, I am stil learning and trying to ace C++ inorder to solve problems more efficiently and on the way to get better and stronger in the competitive coding population. Beside all these, I love to do photography and play guitar.
 
--->
+--!>
 [youtube]: https://www.youtube.com/@yourajdeep
