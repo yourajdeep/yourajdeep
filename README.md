@@ -5,8 +5,6 @@
 I'm an Indian frontend developer eventually becoming an full-stack developer in the upcoming years along with being a software developer as my main occupation. Solving variety of problems, understanding logics, theories helps me in building my base stronger contributing in honing my skills at apex level. I dream to become one of the best coders in the world helping people with my programs to ease their day-to-day life.
 
    <p align="left"> 
-      <a href="https://github.com/yourajdeep?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yourajdeep?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/yourajdeep?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yourajdeep?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
@@ -22,7 +20,7 @@ I'm an Indian frontend developer eventually becoming an full-stack developer in 
 
 ### 📊 Stats
 
-![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourajdeep&show_icons=true&theme=calm)
+![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourajdeep&show_icons=true&theme=radical)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yourajdeep&theme=calm&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yourajdeep&theme=radical&border_radius=4.5) -->
 #
