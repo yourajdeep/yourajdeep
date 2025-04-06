@@ -1,6 +1,6 @@
 # 🏊🏻‍♂️ Rajdeep Das
 
-**`Coding-enthusiast (Developer/Designer)`**
+**`DIGITAL-CRAFTSMAN (Developer/Designer)`**
 
 I'm an Indian frontend developer eventually becoming an full-stack developer in the upcoming years along with being a software developer as my main occupation. Solving variety of problems, understanding logics, theories helps me in building my base stronger contributing in honing my skills at apex level. I dream to become one of the best coders in the world helping people with my programs to ease their day-to-day life.
 
