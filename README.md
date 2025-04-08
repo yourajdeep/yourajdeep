@@ -16,7 +16,7 @@ I'm an Indian frontend developer eventually becoming an full-stack developer in 
 
 ### 📊 Stats
 
-![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourajdeep&show_icons=true&theme=dark)
+![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourajdeep&show_icons=true&theme=radical)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yourajdeep&theme=dark&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yourajdeep&theme=radical&border_radius=4.5) -->
 #
