@@ -13,10 +13,3 @@ I'm an Indian frontend developer eventually becoming an full-stack developer in 
 <br />
 
 #
-
-### 📊 Stats
-
-![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourajdeep&show_icons=true&theme=dark)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yourajdeep&theme=dark&border_radius=4.5) -->
-#
