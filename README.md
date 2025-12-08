@@ -1,3 +1,5 @@
+<img src="https://github.com/yourajdeep/yourajdeep/blob/64ae5de639cff7eaa7e8e7c4530cfdea13cd8c79/banner.gif" width="1080px" />
+
 # 🏊🏻‍♂️ Rajdeep Das
 
 **`SOFTWARE ENGINEER`**
