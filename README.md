@@ -4,7 +4,7 @@
 
 **`SOFTWARE ENGINEER`**
 
-Based in India, I mostly work on software stuff - fixing bugs, solving problems, integrating innovation within projects.
+Based in India, I mostly work on software stuff - fixing bugs, solving problems, logical reasoning.
 
 I also love fullstack web development - creating fine looking websites with minimal UI, smooth animations.
 
