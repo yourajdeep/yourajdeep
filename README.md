@@ -13,7 +13,7 @@ I also love fullstack web development - creating fine looking websites with mini
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,haskell,c,python,js,ts,react,nodejs,express,mongodb,postgres,nginx,git,github,githubactions,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,haskell,c,python,js,ts,react,nodejs,express,mongodb,postgres,git,github,githubactions,bash" />
 </p>
 
 
